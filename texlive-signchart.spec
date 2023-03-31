@@ -1,6 +1,6 @@
 Name:		texlive-signchart
 Version:	39707
-Release:	1
+Release:	2
 Summary:	Create beautifully typeset sign charts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/signchart
